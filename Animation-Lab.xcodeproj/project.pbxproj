@@ -36,7 +36,7 @@
 /* Begin PBXFileReference section */
 		DB3112922C0F689C00E4F704 /* Animation-Lab.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Animation-Lab.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		DB3112952C0F689C00E4F704 /* Animation_LabApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Animation_LabApp.swift; sourceTree = "<group>"; };
-		DB3112972C0F689C00E4F704 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		DB3112972C0F689C00E4F704 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; usesTabs = 0; };
 		DB3112992C0F689E00E4F704 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DB31129C2C0F689E00E4F704 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		DB3112A22C0F689E00E4F704 /* Animation-LabTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Animation-LabTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
